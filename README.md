@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Machine learning.
 - 🌱 I’m currently learning data sciens, program and english.
 - 💞️ I’m looking to collaborate on proyect data scients and programing.
-- 📫 How to reach me with linkeding and isntagram: www.linkedin.com/in/jcs1c or 
+- 📫 How to reach me for linkeding and isntagram: www.linkedin.com/in/jcs1c or 
 https://www.instagram.com/jc.sebas_1/?hl=es
 <!---
 Sebas23cad/Sebas23cad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
